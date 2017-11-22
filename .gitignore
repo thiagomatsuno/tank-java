@@ -3,3 +3,5 @@ bin
 .classpath
 .settings
 .project
+.idea
+tank-java.iml
